@@ -1,2 +1,2 @@
-# sheel
+# sheel.afk
 Make more fun
